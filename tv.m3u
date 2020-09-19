@@ -129,7 +129,19 @@ https://live.rentm3u8.com/HVTockN7F5zci2EdHHHaPQ/1599816111/livesport-abr/hd-ch3
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.09.11-G2 Android-แบ่งปัน
 https://youtu.be/YRwyE1GQ_jI
 
-
+#EXTINF:-1 group-title="กีฬา พรีเมี่ยม" tvg-logo="https://youdooball.com/wp-content/uploads/2020/06/31682adb-c504-409d-b2ea-d43245491a9a_320-110x80.png",True Premier Football HD 1              
+https://youdooball.com/truepremierfootballhd1/|referer=https://youdooball.com
+#EXTINF:-1 group-title="กีฬา พรีเมี่ยม" tvg-logo="https://youdooball.com/wp-content/uploads/2020/06/afc53720-a686-4376-8ab3-a910f1821c0e_320-110x80.png",True Premier Football HD 2              
+https://youdooball.com/truepremierfootballhd2/|referer=https://youdooball.com
+#EXTINF:-1 group-title="กีฬา พรีเมี่ยม" tvg-logo="https://youdooball.com/wp-content/uploads/2020/06/d777c947-a608-4d84-b61a-3d1d04d05ba0_320-110x80.png",True Premier Football HD 3
+https://youdooball.com/truepremierfootballhd3/|referer=https://youdooball.com
+#EXTINF:-1 group-title="กีฬา พรีเมี่ยม" tvg-logo="https://youdooball.com/wp-content/uploads/2020/06/75919016-2ada-45ac-8ed5-5ba134c439a9_320-110x80.png",True Premier Football HD 4              
+https://youdooball.com/truepremierfootballhd4/|referer=https://youdooball.com
+#EXTINF:-1 group-title="กีฬา พรีเมี่ยม" tvg-logo="https://youdooball.com/wp-content/uploads/2020/06/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_original-110x80.png",True Premier Football HD 5              
+https://youdooball.com/truepremierfootballhd5/|referer=https://youdooball.com
+#EXTINF:-1 group-title="กีฬา พรีเมี่ยม" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg",Bein 1              
+https://www.andaman888th.com/ดูบอลออนไลน์/beinsport1/|referer=
+#EXTINF:-1 group-title="กีฬา พรีเมี่ยม" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg",Bein 2  
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1
