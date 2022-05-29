@@ -1,55 +1,17 @@
 {
-"name":"UCL FINAL LIVERPOOL-REAL MADRID",
-"author": "ตรี อินดี้",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJSv1HqSxLs4la_Oo937WPhjl28KYCOFdSQ&usqp=CAU",
+"name":"Bein thailand",
+"author": "Napat",
+"image":"https://assets.beinsports.com/3.2.8/images/batch-logo.png",
 "url":"https://pastebin.com/raw/HRVaupCc",
 "stations":[
 
 {
-"name":"BT SPORT 1HD",
+"name":"Bein-TH 1HD",
 "image":"https://overseer.blackboxsys.net/images/png/uk-btsport1hd.png",
-"url":"https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/playlist.m3u8",
-"referer":"https://livescorethai.net/",
-"info":"ตรี ห้วยพลู",
-"playInNatPlayer": "true"
-},
-
-{
-"name":"BT SPORT 1HD",
-"image":"https://overseer.blackboxsys.net/images/png/uk-btsport1hd.png",
-"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/btsport1/playlist.m3u8",
-"referer":"https://www.livestream88.com/sport/",
-"info": "ตรี ห้วยพลู",
-"playInNatPlayer":"true"
-},
-
-{
-"name":"BT SPORT 1HD",
-"image":"https://overseer.blackboxsys.net/images/png/uk-btsport1hd.png",
-"url":"http://dooball66.asia/channel/?key=1&kp=btsport1",
-"referer":"http://dooball66.asia/",
+"url":"https://cdn1.aws-live-streaming.com/ais/ch40/playlist.m3u8",
+"referer":"https://aisplay24hd.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info":"ตรี ห้วยพลู",
-"playInNatPlayer": "true"
-},
-
-{
-"name":bein1premiumarab",
-"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--761.png",
-"url":"http://dooball66.asia/channel/?key=1&kp=bein1premiumarab",
-"referer":"http://dooball66.asia/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info":"ตรี ห้วยพลู",
-"playInNatPlayer": "true"
-},
-
-{
-"name":bein1englisharab",
-"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--1166.png",
-"url":"http://dooball66.asia/channel/?key=1&kp=bein1englisharab",
-"referer":"http://dooball66.asia/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"info":"ตรี ห้วยพลู",
+"info":"Napt",
 "playInNatPlayer": "true"
 },
 
