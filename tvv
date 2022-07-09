@@ -16,3 +16,11 @@ https://bit.ly/3Ib1L8c
 https://bit.ly/3IdQm7u
 #EXTINF:-1 tvg-ID="mutv.uk" tvg-name="[UK] [4K] MUTV HD" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/MUTV.png" group-title="[UK] SPORTS",[UK] [4K] MUTV HD
 http://line.uhd-ott.xyz:80/live/58AD54/F22589/101067.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] [HD] ASTRO SUPERSPORT" tvg-logo="http://logourl.net/4KOTTLOGO/ASTROMALAYSIA/ASTROSUPERSPORT.png" group-title="[UK] SPORTS",[UK] [HD] ASTRO SUPERSPORT
+http://line.uhd-ott.xyz:80/live/58AD54/F22589/556245.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] [HD] ASTRO SUPERSPORT 2 " tvg-logo="http://logourl.net/4KOTTLOGO/ASTROMALAYSIA/ASTROSUPERSPORT.png" group-title="[UK] SPORTS",[UK] [HD] ASTRO SUPERSPORT 2 
+http://line.uhd-ott.xyz:80/live/58AD54/F22589/556246.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] [HD] ASTRO SUPERSPORT 3" tvg-logo="http://logourl.net/4KOTTLOGO/ASTROMALAYSIA/ASTROSUPERSPORT.png" group-title="[UK] SPORTS",[UK] [HD] ASTRO SUPERSPORT 3
+http://line.uhd-ott.xyz:80/live/58AD54/F22589/556247.ts
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] [HD] ASTRO SUPERSPORT 4" tvg-logo="http://logourl.net/4KOTTLOGO/ASTROMALAYSIA/ASTROSUPERSPORT.png" group-title="[UK] SPORTS",[UK] [HD] ASTRO SUPERSPORT 4
+http://line.uhd-ott.xyz:80/live/58AD54/F22589/556248.ts
