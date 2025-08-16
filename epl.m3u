@@ -3,4 +3,5 @@
 http://zatvstream.xyz:80/play/live.php?mac=00:1A:79:C0:2F:90&stream=1016544&extension=m3u8
 #EXTINF:-1 group-title="Mono-Max-1" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",Mono-Max-1
 https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8
-
+#EXTINF:-1 group-title="Mono-Max-2" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",Mono-Max-1
+https://cdn1.googlecdn.live/4k/monomax-2/chunks.m3u8
