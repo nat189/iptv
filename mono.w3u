@@ -7,71 +7,17 @@
 
 "stations":  [
 
-{ "name": "MonoMax 4",
- "image": "https://dookeela.live/uploads/1753517049.png", "url": "https://dookeela.live/live-tv/monomax1",
- "url": "https://dookeela2.live/football/match/472423", 
- "referer": "https://dookeela2.live", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
-
-
-{ "name": "MonoMax Sports",
- "image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
- "url": "https://dookeela.live/live-tv/dklsport1",
- "referer": "https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" }, 
-
-
-{ "name": "MonoMax 3",
- "image": "https://dookeela.live/uploads/1753517049.png", 
-"url": "https://dookeela2.live",
- "referer": "https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
-
-
-{ "name": "MonoMax 1",
- "image": "https://dookeela.live/uploads/1753517049.png", "url": "https://dookeela.live/live-tv/monomax1",
- "referer": "https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
-
-{"name":"Monomax Sport-3",
- "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", 
-"url": "https://cdnsv1.bunnycdncloud.com/andaman888th/dxsport1/th-sport/dxsport1/chunks.m3u8?nimblesessionid=25585411", 
-"referer": "https://www.andaman888th.net/",
- "playInNatPlayer":"true"},
-
-{ "name": "MonoMax 1",
- "image": "https://dookeela.live/uploads/1753517049.png", 
-"url": "https://dookeela.live/live-tv/monomax1",
- "referer": "https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
-
-
-{ "name": "MonoMax 2", 
-"image": "https://dookeela.live/uploads/1753517049.png", 
-"url": "https://dookeela.live/live-tv/monomax2", 
-"referer": "https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
-
-{ "name": "MonoMax 1", 
-"image": "https://dookeela.live/uploads/1753517049.png", 
-"url": "https://168dooball.io/live-stream/?mode=ball&ch=monomax3&lid=1022&mid=155927",
- "referer": "https://168dooball.io/live-stream/?mode=ball&ch=monomax3&lid=1022&mid=155927", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
-
-{"name": "Monomax Sport-1",
-"image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
-"url": "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=", 
-"referer": "https://fw4free.com/",
-"info":"",
-"playInNatPlayer": "true"},
-
- {"name":"Monomax Sport-2", 
-"image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
- "url": "https://slave02.appball.vip/hls/ch11.m3u8", 
-"playInNatPlayer":"true"}, 
 
  {"name":"Monomax Sport-4", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
  "url": "https://cdn1.googlecdn.live/4k/dklsport1/chunks.m3u8",
+ "referer": "https://footballsod.live/", "playInNatPlayer": "true"},
+
+ {"name":"Monomax Sport-2", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
+ "url": "https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8",
+ "referer": "https://footballsod.live/", "playInNatPlayer": "true"},
+
+ {"name":"Monomax Sport-4", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
+ "url": "https://cdn1.googlecdn.live/4k/dklsport2/chunks.m3u8",
  "referer": "https://footballsod.live/", "playInNatPlayer": "true"},
 
  {"name":"Monomax Sport-5", 
