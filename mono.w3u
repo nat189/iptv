@@ -1,6 +1,6 @@
 
 {
-"name": "MonoMax Sports",
+"name": "MonoMax Sports Test",
 "author": "",
 "image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
 "url": "",
@@ -13,6 +13,14 @@
  "url": "https://dookeela.live/live-tv/dklsport1",
  "referer": "https://dookeela.live/", 
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" }, 
+
+
+{ "name": "MonoMax 3",
+ "image": "https://dookeela.live/uploads/1753517049.png", 
+"url": "https://dookeela2.live/football/match/472185",
+ "referer": "https://dookeela.live/", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
+
 
 { "name": "MonoMax 1",
  "image": "https://dookeela.live/uploads/1753517049.png", "url": "https://dookeela.live/live-tv/monomax1",
