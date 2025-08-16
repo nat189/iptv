@@ -1,49 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",EPL
 http://zatvstream.xyz:80/play/live.php?mac=00:1A:79:C0:2F:90&stream=1016544&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | TNT SPORTS 01 HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | TNT SPORTS 02 HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12556.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | TNT SPORTS 03 HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12557.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | SKY SPORTS CRICKET HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12558.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | LA LIGA TV HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12148.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | SKY SPORTS PREMIER LEAGUE HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12149.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | BEIN SPORTS HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12150.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | NBC GOLF HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12151.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | ESPN HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12222.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | ESPN 2 HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12223.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | ESPN NEWS FHD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12224.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",INT | ESPN U FHD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12225.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AFG | SOLH SPORTS
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12349.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AFG | RTA SPORTS HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12350.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",IRN | PERSIANA SPORTS
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12351.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",IRN | PERSIANA FIGHT HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12352.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",IRN | 4 SPORTS HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12353.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PK | TEN SPORTS HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12523.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PK | TEN SPORTS FHD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12522.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PK | PTV SPORTS HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12521.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PK | PTV SPORTS FHD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12520.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PK | A SPORTS HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12519.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PK | A SPORTS FHD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12518.ts
+#EXTINF:-1 group-title="Mono-Max-1" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",Mono-Max-1
+https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8
+
