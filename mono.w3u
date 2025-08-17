@@ -22,6 +22,11 @@
  "url": "https://cdn1.googlecdn.live/4k/monomax-3/chunks.m3u8",
  "referer": "https://footballsod.live/", "playInNatPlayer": "true"},
 
+ {"name":"Monomax Sport-3-1", 
+ "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
+ "url": "https://cdn1.googlecdn.live/4k/monomax3/chunks.m3u8",
+ "referer": "https://footballsod.live/", "playInNatPlayer": "true"},
+
  {"name":"Monomax Sport-4", 
  "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
  "url": "https://cdn1.googlecdn.live/4k/monomax-4/chunks.m3u8",
