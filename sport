@@ -1,0 +1,54 @@
+{
+		"name"	: "DEMO",
+		"author"	: "SPORT",
+		"image"	: "https://t4.ftcdn.net/jpg/05/89/27/21/360_F_589272121_akMVElogcYg2xhMoL3EQntLNKSQ4X6zC.jpg",
+		"url"	: "",
+		 "info"	: "DEMO TEST",
+"groups": [
+
+
+
+
+{"name"	: "Carabao Cup",
+"image"	: "https://i.pinimg.com/564x/3b/2f/39/3b2f39571168183c6c3372d6e172962c.jpg",
+ 
+		"stations":[
+
+{"name"	:  "CH 1",
+"image"	:  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvvxPwBZRWdOyygZRdSM9oJbcnTSsJ4M2sKQ&s",
+"url"	:  "https://siamsport.net/ch/channel1",
+"referer"	:  "https://siamsport.net/",
+"userAgent"	:  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+"desktop"		:  "true",
+"playInNatPlayer"	:  "true"},
+
+{"name"	:  "CH 2",
+"image"	:  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvvxPwBZRWdOyygZRdSM9oJbcnTSsJ4M2sKQ&s",
+"url"	:  "https://siamsport.net/ch/channel2",
+"referer"	:  "https://siamsport.net/",
+"userAgent"	:  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+"desktop"		:  "true",
+"playInNatPlayer"	:  "true"},
+
+{"name"	:  "CH 3",
+"image"	:  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvvxPwBZRWdOyygZRdSM9oJbcnTSsJ4M2sKQ&s",
+"url"	:  "https://siamsport.net/ch/channel3",
+"referer"	:  "https://siamsport.net/",
+"userAgent"	:  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+"desktop"		:  "true",
+"playInNatPlayer"	:  "true"},
+
+{"name"	:  "CH 4",
+"image"	:  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvvxPwBZRWdOyygZRdSM9oJbcnTSsJ4M2sKQ&s",
+"url"	:  "https://siamsport.net/ch/channel4",
+"referer"	:  "https://siamsport.net/",
+"userAgent"	:  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+"desktop"		:  "true",
+"playInNatPlayer"	:  "true"},
+
+
+]
+},
+
+]
+}
