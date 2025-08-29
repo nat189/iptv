@@ -1,0 +1,234 @@
+{
+"name": "RED STAR 29-8-68",
+"author": "อัพเดท 29-8-68 Free TV",
+"image": "https://img5.pic.in.th/file/secure-sv1/red49f9b5add4beca1b.jpg",
+"url": "https://drive.google.com/uc?id=1jpBbgxXr8oC0ud7TpMLSZ5L7D1_8I2YO",
+
+"groups": [
+
+
+
+{ 
+"name": "01. BIG TV",
+"author": "",
+"image": "https://img5.pic.in.th/file/secure-sv1/big---.jpg",
+"url": "http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8",
+"import": "true"},
+
+
+
+
+
+{ 
+"name": "02. Doo Free",
+"author": "",
+"image": "https://cdn.imgchest.com/files/4apc5v8la64.gif",
+"url": "https://dl.dropboxusercontent.com/scl/fi/osdhnlstn5nq0y0vz1xqb/Doo-Free.txt?rlkey=l5vbthacstlhkvpch8h4y0unc&st=3v6a0m6o&dl=0",
+"import": "true"},
+
+
+
+
+
+{ 
+"name": "03. GOJEK TV",
+"author": "",
+"image": "https://img5.pic.in.th/file/secure-sv1/gojak-copy-12444444017d63466e.jpg",
+"url": "https://tinyurl.com/GojekTV",
+"import": "true"},
+
+
+{
+"name": "04. DOO MOVIE",
+"author": "",
+ "image": "https://img2.pic.in.th/pic/movie-copy-12.jpg",
+"url": "https://drive.google.com/uc?id=1RwH2H12Y7mIE1VmQgCb5O4nkjy1IYWn1",
+"import": "true"},
+
+{
+"name": "05. M CHANAL",
+"author": "",
+ "image": "https://img5.pic.in.th/file/secure-sv1/m12.jpg",
+"url": "https://bit.ly/Asamu66",
+"import": "true"},
+
+
+{
+"name": "06. FREETV",
+"author": "",
+ "image": "https://img5.pic.in.th/file/secure-sv1/free12.jpg",
+"url": "https://akkradet.github.io/IPTV-THAI/FREETV.m3u",
+"import": "true"},
+
+
+{
+"name": "07. PINK TV",
+"author": "",
+ "image": "https://img2.pic.in.th/pic/pink-copy-12.jpg",
+"url": "https://bit.ly/PinkTV",
+"import": "true"},
+
+{
+"name": "08. LEGAL IPTV",
+"author": "",
+ "image": "https://img2.pic.in.th/pic/huk-copy-12.jpg",
+"url": "http://tiny.cc/LEGALIPTV
+",
+"import": "true"},
+
+{
+"name": "09. FREE 123 HD",
+"author": "",
+ "image": "https://img2.pic.in.th/pic/123-copy-12.jpg",
+"url": "https://drive.google.com/uc?id=1T4Mo-w5413bTyIsp7N_bu7o09RkRb0Bj",
+"import": "true"},
+
+
+{
+"name": "10. DOOFREE",
+"author": "",
+ "image": "https://img5.pic.in.th/file/secure-sv1/live-copy-12.jpg",
+"url": "https://bit.ly/doodoofree",
+"import": "true"},
+
+
+
+
+
+{
+"name": "11. CINEMA",
+"author": "",
+ "image": "https://img2.pic.in.th/pic/cinema-copy-12.jpg",
+"url": "https://bit.ly/Oung2025",
+"import": "true"},
+
+
+
+
+
+
+{
+"name": "13. BOND",
+"author": "",
+ "image": "https://img2.pic.in.th/pic/bond-tv12.jpg",
+"url": "https://dl.dropboxusercontent.com/scl/fi/92flf0877g9np9wvtbx7e/BOND.txt?rlkey=0oby63jdx2pz9fu0c8udb3fuw&st=u0a0zuen&dl=0",
+"import": "true"},
+
+
+
+{
+"name": "14. BIG-TV-2",
+"author": "",
+ "image": "https://img5.pic.in.th/file/secure-sv1/big---12c6bb0ece05cc9e37.jpg",
+"url": "https://dl.dropboxusercontent.com/scl/fi/6mb1fviz47jeix7lxw2jk/BIG-TV-2-EDIT.txt?rlkey=w3kbcqk61b5t3km5e8ncnkvy5&st=ge3f5gpr&dl=0",
+"import": "true"},
+
+
+{
+"name": "15. FRIDAY 14",
+"author": "",
+ "image": "https://img2.pic.in.th/pic/friday12.jpg",
+"url": "https://bit.ly/Friday444",
+"import": "true"},
+
+
+
+
+
+
+
+
+
+{
+"name": "18. DKL",
+"author": "",
+ "image": "https://img5.pic.in.th/file/secure-sv1/dkl-2.jpg",
+"url": "https://dl.dropboxusercontent.com/scl/fi/i008rwsvdafvleood2v8h/Dookela.txt?rlkey=xghdyrlyp17rc73fuc5v2dysf&st=2w0v5hl3&dl=0",
+"import": "true"},
+
+
+
+
+
+{
+"name": "19. Tvallseries ","image": "https://img2.pic.in.th/pic/serie.jpg",
+"url": "https://drive.google.com/uc?id=1CK71aLlKt52aCf_WR4ZQEmfGZiNou-N1",
+"import": true
+},
+
+{
+"name": "20. Dooseries4k ","image": "https://img2.pic.in.th/pic/serie.jpg",
+"url": "https://drive.google.com/uc?id=15054Zyjz2PK7EJ8d9xnBgrNS6VZwWh8L",
+"import": true
+},
+
+{
+"name": "21. Anime-Indy ","image": "https://img2.pic.in.th/pic/serie.jpg",
+"url": "https://drive.google.com/uc?id=13RFqRGSOZBSTOwq-YvFeE9818hnuY0he",
+"import": true
+},
+
+{
+"name": "22. Anime Moji ","image": "https://img2.pic.in.th/pic/serie.jpg",
+"url": "https://drive.google.com/uc?id=196x0N2t-khH8pxP8dmY24RwVizc_VB5w",
+"import": true
+},
+
+{
+"name": "23. 123 HD ","image": "https://img2.pic.in.th/pic/serie.jpg",
+"url": "https://drive.google.com/uc?id=1T4Mo-w5413bTyIsp7N_bu7o09RkRb0Bj",
+"import": true
+},
+
+{
+"name": "24. 24-HD ","image": "https://img2.pic.in.th/pic/serie.jpg",
+"url": "https://drive.google.com/uc?id=1HHBM_V56tUVl6ZvceCnzPVa5o0-Nw7SM",
+"import": true
+},
+
+{
+"name": "25. Series-indy ","image": "https://img2.pic.in.th/pic/serie.jpg",
+"url": "https://drive.google.com/uc?id=10Wu_OgA7hZfOKoDVZ9pFrFKezUtqLAyz",
+"import": true
+},
+
+
+{
+"name": "26. Nung2HD ","image": "https://img2.pic.in.th/pic/serie.jpg",
+"url": "https://drive.google.com/uc?id=1t1is6ZUd3N5w3VHTOF9GavLnwTZHG4hb",
+"import": true
+},
+
+
+{
+"name": "27. SEXY 1",
+"author": "",
+ "image": "https://img5.pic.in.th/file/secure-sv1/189e7cea0d7fbefbbe.jpg",
+"url": "https://docs.google.com/uc?id=1ub0GqrnkqCJyJLnME-JaQReh3Kj7YEcE",
+"import": "true"},
+
+
+
+{
+"name": "28. SEXY 2",
+"author": "",
+ "image": "https://img5.pic.in.th/file/secure-sv1/189e7cea0d7fbefbbe.jpg",
+"url": "https://dl.dropboxusercontent.com/scl/fi/ms683yg1dveqiu0lja259/SUPER-AV.txt?rlkey=nathikk9jg3hrj6xp1xg4ecz1&st=61trj4u3&dl=0",
+"import": "true"},
+
+
+{
+"name": "29. SEXY 3",
+"author": "",
+ "image": "https://img5.pic.in.th/file/secure-sv1/189e7cea0d7fbefbbe.jpg",
+"url": "https://drive.google.com/uc?id=11Bo2hmX0B3sIke2GryZJ96Gglc2qGMnv",
+"import": "true"},
+
+
+
+
+
+
+
+
+]}
