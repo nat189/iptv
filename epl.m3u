@@ -1,7 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",EPL
-http://zatvstream.xyz:80/play/live.php?mac=00:1A:79:C0:2F:90&stream=1016544&extension=m3u8
-#EXTINF:-1 group-title="Mono-Max-1" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",Mono-Max-1
-https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8
-#EXTINF:-1 group-title="Mono-Max-2" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",Mono-Max-2
+#EXTINF:-1 tvg-id="EPL-1 (dookeela) tvg-logo="https://upload.wikimedia.org/wikinews/en/a/a7/300px-Premier_League.svg.png" group-title="ช่องกีฬา",Premier League 1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPL-2 (dookeela) tvg-logo="https://upload.wikimedia.org/wikinews/en/a/a7/300px-Premier_League.svg.png" group-title="ช่องกีฬา",Premier League 2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://cdn1.googlecdn.live/4k/monomax-2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPL-3 (dookeela) tvg-logo="https://upload.wikimedia.org/wikinews/en/a/a7/300px-Premier_League.svg.png" group-title="ช่องกีฬา",Premier League 3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://cdn1.googlecdn.live/4k/monomax-3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPL-4 (dookeela) tvg-logo="https://upload.wikimedia.org/wikinews/en/a/a7/300px-Premier_League.svg.png" group-title="ช่องกีฬา",Premier League 4
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://cdn1.googlecdn.live/4k/monomax-4/chunks.m3u8
+
+#EXTINF:-1 tvg-id="EPL-5 (dookeela) tvg-logo="https://upload.wikimedia.org/wikinews/en/a/a7/300px-Premier_League.svg.png" group-title="ช่องกีฬา",Premier League 5
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://cdn1.googlecdn.live/4k/monomax-5/chunks.m3u8
